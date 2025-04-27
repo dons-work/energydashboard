@@ -8,7 +8,7 @@ This project is a demonstration of my technical skillset, methods, design approa
 The dashboard provides a simulated overview of key financial indicators, company information, and market fundamentals relevant to European energy trading.
 It is designed to support discussions around innovation in energy markets and explore opportunities to apply data-driven decision-support tools.
 
-##Project
+## Project
 This project showcases an interactive European Energy Trading Dashboard, built entirely in a single HTML file using HTML, CSS, JavaScript, and Chart.js. 
 It simulates real-time market analysis, financial indicators, and company insights in a clean, professional interface.
 
